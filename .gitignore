@@ -1,0 +1,14 @@
+# Java compiled files
+*.class
+
+# Contact data
+contacts.txt
+
+# IDE files
+.idea/
+.vscode/
+
+# Build folders
+out/
+bin/
+target/
